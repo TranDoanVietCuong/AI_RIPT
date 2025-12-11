@@ -1,4 +1,4 @@
-# Machine Learning Roadmap: Supervised vs. Unsupervised Learning
+# Machine Learning Roadmap: Supervised vs Unsupervised Learning
 
 ## 1. Lý thuyết Nền tảng
 ### 1.1. Supervised Learning (Học có giám sát)
