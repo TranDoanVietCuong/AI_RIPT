@@ -1,5 +1,5 @@
 # Machine Learning Roadmap: Supervised vs Unsupervised Learning
-
+https://ptiteduvn-my.sharepoint.com/:w:/g/personal/cuongtdv_b25tv012_stu_ptit_edu_vn/IQBuPf8XvSA7RZYwlScsJH1MAUphkNDL4CIpQRBpuSzvQgc?e=xY2FCD
 ## 1. Lý thuyết Nền tảng
 ### 1.1. Supervised Learning (Học có giám sát)
 - Định nghĩa và Bản chất
