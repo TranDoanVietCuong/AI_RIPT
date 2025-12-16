@@ -1,4 +1,5 @@
 # Tổng quan nội dung lý thuyết tuần 1
+https://ptiteduvn-my.sharepoint.com/:w:/g/personal/cuongtdv_b25tv012_stu_ptit_edu_vn/IQDMR3bHFDaSRKiTQPvblVT-AUOC-S_TjxK0VPnwOIigTH8?e=YR5alg
 ## 1. Tổng quan về AI
 * Khái niệm & Lĩnh vực: AI, Machine Learning, Deep Learning, NLP, Computer Vision.
 * Dữ liệu: Vai trò và tầm quan trọng.
